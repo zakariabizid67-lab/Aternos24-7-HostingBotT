@@ -8,7 +8,8 @@
   "server": {
     "ip": "EldoriaSurvivalSMP.aternos.me",
     "port": 54259,
-    "version": "",
+    "version": "1.21.11
+  ",
     "try-creative": false
   },
   "position": {
