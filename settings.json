@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "EldoriaSurvivalSMP.aternos.me",
+    "port": 54259,
     "version": "",
     "try-creative": false
   },
